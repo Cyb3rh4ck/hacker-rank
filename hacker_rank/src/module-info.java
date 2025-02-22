@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module hacker_rank {
-}
